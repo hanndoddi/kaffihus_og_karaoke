@@ -6,6 +6,7 @@
 
 - [Karaoke Bars in Krakow - trip advisor](https://www.tripadvisor.com/Attractions-g274772-Activities-c20-t105-Krakow_Lesser_Poland_Province_Southern_Poland.html)
 - [Top 10 Best Karaoke Near Kraków - yelp](https://www.yelp.com/search?cflt=karaoke&find_loc=Krak%C3%B3w)
+- [Discover the Best Karaoke Bars in Krakow for a Fun Night Out](https://krawlthroughkrakow.com/karaoke-bars-in-krakow/?srsltid=AfmBOoo6MopjL0WJ69m7DKkVEA6SpdT-YaruHsiggBGUSDSsE_crmDAj)
 
 ## Karaoke 
 
