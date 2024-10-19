@@ -19,6 +19,7 @@
 |           1.7            |      Karaoke Spot      | 17:00-00:01  | [https://maps.app.goo.gl/Wyos2XAiXTGZMXFX7](https://maps.app.goo.gl/Wyos2XAiXTGZMXFX7) | Flop ekki fara þangað                      |
 |           1.9            |    IVY Cocktail Bar    | 18:00-00:03  | [https://maps.app.goo.gl/Zg9bKMgwR3fGBbKJ8](https://maps.app.goo.gl/Zg9bKMgwR3fGBbKJ8) | Rólegur og líklega gott að fara á laugadag |
 |           1.9            |    Bull Pub Kraków     | 09:00-00:30  | [https://maps.app.goo.gl/Eo6QuQeZQfXyjXjm8](https://maps.app.goo.gl/Eo6QuQeZQfXyjXjm8) | Írskur Karaoke Bar. Matur á staðnum.       |
+|           1.0            |     Pub Pod Ziemią     |   Rock Pub   | [https://maps.app.goo.gl/2qwEnmJeojKtSy8B9](https://maps.app.goo.gl/2qwEnmJeojKtSy8B9) | stundum Karaoke                            |
 
 ## Kaffihús
 
